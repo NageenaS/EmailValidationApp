@@ -24,7 +24,6 @@ This Email Validation App is a simple web-based tool built with Flask that allow
    ```
    pip install -r requirements.txt
    ```
-
 3. **Deploy with Docker**:
 You can quickly deploy the application using Docker. Follow these steps:
 Pull the pre-built image:
