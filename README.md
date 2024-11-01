@@ -44,3 +44,17 @@ docker run -d --name email-validation nageenashaik/email-validation
    ```
 5. **Access the App**:
    Open your web browser and go to `http://127.0.0.1:5000` to access the application.
+
+
+## Usage
+
+After launching the application, you can utilize the interface to:
+
+- Enter an email address in the provided form on the home page.
+- Submit the email for validation.
+- View detailed results on the validity and status of the email, including attributes like deliverability, format validity, and whether it’s from a disposable or free email provider.
+
+
+## Docker Hub
+Docker Hub is a cloud-based repository that allows users to store, share, and manage Docker images. The StockApp is also available on Docker Hub. 
+You can find the image [here](https://hub.docker.com/r/nageenashaik/emailvalidation) (replace with your actual Docker Hub link). This allows you to easily deploy the application without building the image locally.
