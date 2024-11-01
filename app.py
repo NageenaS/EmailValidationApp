@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # API key and URL for email validation
-api_key = 'ccf525cd29754a58afc254c075bc82c8'
+api_key = '' #use your API key generated from RapidApi website
 url = 'https://emailvalidation.abstractapi.com/v1/'
 
 @app.route('/')
