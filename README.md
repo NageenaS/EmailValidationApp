@@ -43,6 +43,4 @@ docker run -d --name email-validation nageenashaik/email-validation
    python app.py
    ```
 5. **Access the App**:
-   ```
-   http://127.0.0.1:5000
-  ```
+   Open your web browser and go to `http://127.0.0.1:5000` to access the application.
