@@ -53,6 +53,7 @@ After launching the application, you can utilize the interface to:
 - Enter an email address in the provided form on the home page.
 - Submit the email for validation.
 - View detailed results on the validity and status of the email, including attributes like deliverability, format validity, and whether it’s from a disposable or free email provider.
+  
   ![Screenshot 2024-11-05 135926](https://github.com/user-attachments/assets/c587e903-d26c-4cf1-a18f-9ea94406999b)
   ![Screenshot 2024-11-05 140006](https://github.com/user-attachments/assets/9dec310d-f2fb-4212-9b31-bda83ce481d7)
 
